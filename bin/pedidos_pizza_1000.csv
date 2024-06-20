@@ -1,0 +1,1001 @@
+id;sabor_pizza;instante_pedido;tempo_preparo
+10422;Portuguesa;1;25
+91678;Frango com Catupiry;1;20
+88544;Pepperoni;1;13
+43242;Pepperoni;1;16
+69922;Quatro Queijos;1;24
+47257;Pepperoni;1;24
+38151;Pepperoni;1;10
+50915;Vegetariana;1;21
+59691;Frango com Catupiry;1;22
+75732;Calabresa;1;17
+94852;Vegetariana;1;16
+79497;Portuguesa;2;18
+88349;Margherita;2;28
+60192;Calabresa;2;21
+64299;Calabresa;2;27
+55992;Margherita;2;25
+38680;Frango com Catupiry;2;29
+39438;Pepperoni;2;23
+16476;Margherita;3;21
+78035;Vegetariana;3;11
+64958;Vegetariana;3;30
+47170;Margherita;3;21
+39623;Calabresa;3;25
+22933;Portuguesa;3;26
+55838;Margherita;3;23
+55108;Frango com Catupiry;3;27
+31853;Calabresa;3;22
+31332;Portuguesa;3;21
+28607;Calabresa;3;16
+80550;Margherita;4;29
+96976;Quatro Queijos;4;27
+29579;Vegetariana;4;11
+41886;Calabresa;4;23
+53274;Portuguesa;4;20
+27146;Quatro Queijos;4;22
+30080;Vegetariana;4;10
+16733;Vegetariana;4;29
+64281;Margherita;4;30
+93007;Vegetariana;4;18
+96276;Portuguesa;4;11
+10085;Pepperoni;4;15
+96410;Margherita;5;30
+21644;Pepperoni;5;10
+34772;Portuguesa;5;19
+55899;Calabresa;5;20
+92608;Frango com Catupiry;5;12
+86866;Margherita;5;22
+22290;Vegetariana;5;18
+92649;Pepperoni;5;28
+99950;Margherita;5;28
+80740;Pepperoni;5;26
+66303;Calabresa;6;27
+79035;Portuguesa;6;22
+81882;Frango com Catupiry;6;15
+89275;Pepperoni;6;25
+58149;Pepperoni;6;20
+84426;Frango com Catupiry;6;10
+85808;Frango com Catupiry;6;23
+13040;Margherita;7;13
+96721;Portuguesa;7;16
+96124;Quatro Queijos;7;28
+24656;Frango com Catupiry;7;12
+93334;Pepperoni;7;18
+22343;Calabresa;7;30
+97621;Frango com Catupiry;7;14
+85828;Calabresa;7;27
+28309;Quatro Queijos;7;24
+40916;Pepperoni;8;16
+13312;Margherita;8;15
+48459;Frango com Catupiry;8;17
+98633;Frango com Catupiry;8;22
+87604;Portuguesa;8;25
+64226;Vegetariana;8;13
+31095;Quatro Queijos;8;27
+59834;Margherita;8;24
+57065;Vegetariana;8;24
+74946;Quatro Queijos;8;16
+52518;Calabresa;8;21
+86764;Quatro Queijos;8;30
+13592;Calabresa;8;25
+25730;Frango com Catupiry;8;24
+15568;Portuguesa;9;14
+99662;Quatro Queijos;9;29
+31668;Quatro Queijos;9;20
+39222;Calabresa;9;10
+40243;Calabresa;9;16
+86935;Quatro Queijos;9;12
+88413;Vegetariana;9;20
+20258;Quatro Queijos;9;17
+63063;Frango com Catupiry;9;30
+74464;Margherita;9;29
+57723;Quatro Queijos;9;25
+34722;Portuguesa;9;11
+85214;Portuguesa;9;17
+78225;Pepperoni;9;15
+80345;Quatro Queijos;9;24
+13258;Vegetariana;9;21
+34930;Pepperoni;9;25
+83807;Calabresa;10;18
+92109;Calabresa;10;15
+35902;Margherita;10;15
+63403;Calabresa;10;25
+37052;Vegetariana;10;11
+25748;Frango com Catupiry;10;27
+54367;Calabresa;11;20
+44997;Vegetariana;11;14
+25147;Portuguesa;11;29
+52487;Pepperoni;11;30
+92887;Portuguesa;11;27
+88418;Calabresa;11;25
+28431;Frango com Catupiry;11;11
+35292;Margherita;12;12
+41468;Portuguesa;12;23
+52116;Calabresa;12;25
+13670;Quatro Queijos;12;13
+12751;Calabresa;12;30
+89903;Margherita;12;24
+49229;Margherita;12;13
+12028;Calabresa;12;28
+34736;Margherita;12;15
+96667;Portuguesa;13;23
+64995;Calabresa;13;10
+86268;Pepperoni;13;25
+44192;Calabresa;13;12
+91013;Margherita;13;17
+49450;Margherita;13;28
+42931;Quatro Queijos;13;25
+94186;Pepperoni;13;24
+62913;Portuguesa;13;25
+28278;Frango com Catupiry;13;24
+55636;Margherita;13;14
+75576;Portuguesa;14;20
+40870;Quatro Queijos;14;30
+28067;Vegetariana;14;30
+44979;Quatro Queijos;14;17
+65580;Portuguesa;14;18
+89889;Frango com Catupiry;14;23
+37822;Vegetariana;15;22
+34883;Vegetariana;15;17
+48886;Frango com Catupiry;15;10
+88013;Quatro Queijos;15;15
+48930;Frango com Catupiry;15;24
+60721;Calabresa;15;26
+19357;Quatro Queijos;15;23
+96186;Vegetariana;15;10
+33086;Pepperoni;15;19
+87203;Calabresa;15;16
+70459;Frango com Catupiry;15;11
+25412;Frango com Catupiry;15;15
+70610;Vegetariana;16;24
+21291;Frango com Catupiry;16;10
+96978;Frango com Catupiry;16;14
+27789;Quatro Queijos;16;15
+57260;Vegetariana;16;26
+72157;Calabresa;16;23
+56700;Frango com Catupiry;16;23
+89697;Vegetariana;16;22
+46098;Frango com Catupiry;16;25
+12971;Pepperoni;17;15
+38544;Portuguesa;17;30
+45501;Frango com Catupiry;17;23
+50554;Vegetariana;17;19
+77262;Frango com Catupiry;17;12
+66456;Vegetariana;17;24
+54229;Portuguesa;17;20
+60497;Calabresa;17;11
+92779;Pepperoni;17;29
+10949;Frango com Catupiry;17;21
+45220;Calabresa;18;14
+63639;Pepperoni;18;13
+24472;Calabresa;18;11
+53421;Margherita;18;17
+61138;Quatro Queijos;18;30
+30265;Pepperoni;18;30
+99636;Vegetariana;18;18
+94182;Quatro Queijos;18;15
+66126;Quatro Queijos;18;16
+72320;Portuguesa;18;11
+54117;Quatro Queijos;18;19
+15963;Frango com Catupiry;19;27
+37399;Calabresa;19;18
+25150;Frango com Catupiry;19;21
+52534;Quatro Queijos;19;12
+39746;Quatro Queijos;19;20
+79494;Frango com Catupiry;19;11
+20032;Vegetariana;19;24
+56219;Margherita;19;24
+43269;Margherita;19;23
+61998;Frango com Catupiry;20;22
+51171;Margherita;20;25
+81473;Quatro Queijos;20;26
+55607;Calabresa;20;24
+69646;Calabresa;20;16
+85188;Frango com Catupiry;20;13
+66246;Calabresa;20;12
+50986;Quatro Queijos;20;14
+68334;Quatro Queijos;20;27
+70597;Pepperoni;20;24
+97463;Margherita;20;25
+25824;Frango com Catupiry;21;14
+10269;Margherita;21;20
+11058;Quatro Queijos;21;26
+19389;Frango com Catupiry;21;28
+12722;Quatro Queijos;21;22
+98040;Quatro Queijos;21;30
+69785;Portuguesa;21;18
+85712;Quatro Queijos;21;24
+17250;Quatro Queijos;21;17
+76473;Quatro Queijos;22;15
+52156;Portuguesa;22;26
+22418;Frango com Catupiry;22;23
+34840;Calabresa;22;22
+85967;Calabresa;22;19
+93936;Quatro Queijos;22;29
+24967;Quatro Queijos;22;21
+99662;Portuguesa;22;10
+17857;Vegetariana;22;26
+45468;Frango com Catupiry;22;18
+59023;Pepperoni;22;27
+76024;Vegetariana;23;29
+80375;Frango com Catupiry;23;30
+68245;Frango com Catupiry;23;20
+31827;Portuguesa;23;20
+11146;Margherita;23;12
+35050;Portuguesa;23;23
+83852;Vegetariana;23;16
+36812;Margherita;23;30
+28158;Margherita;23;10
+22792;Margherita;23;13
+52136;Frango com Catupiry;24;19
+90903;Pepperoni;24;15
+42336;Quatro Queijos;24;14
+45151;Calabresa;24;11
+32069;Margherita;24;29
+83108;Calabresa;24;22
+33525;Calabresa;24;22
+90608;Frango com Catupiry;24;26
+90094;Vegetariana;24;18
+53910;Quatro Queijos;24;29
+28235;Margherita;24;23
+59918;Frango com Catupiry;24;30
+37967;Margherita;25;25
+28128;Vegetariana;25;16
+78412;Portuguesa;25;30
+67027;Quatro Queijos;25;12
+95775;Margherita;25;16
+66373;Calabresa;25;21
+46109;Margherita;25;11
+74893;Frango com Catupiry;25;19
+88428;Calabresa;26;29
+32370;Margherita;26;13
+83909;Calabresa;26;16
+97263;Portuguesa;26;17
+22259;Quatro Queijos;26;17
+83744;Frango com Catupiry;26;30
+44406;Portuguesa;26;28
+56632;Quatro Queijos;26;27
+97589;Calabresa;26;29
+63226;Vegetariana;27;24
+68781;Calabresa;27;13
+41023;Pepperoni;27;10
+26261;Margherita;27;29
+28239;Frango com Catupiry;27;24
+57732;Pepperoni;27;15
+42736;Pepperoni;27;11
+62560;Frango com Catupiry;28;26
+29322;Pepperoni;28;28
+42295;Quatro Queijos;28;30
+69513;Frango com Catupiry;28;23
+25052;Margherita;28;30
+20099;Vegetariana;28;25
+93168;Portuguesa;28;16
+97679;Frango com Catupiry;28;13
+50196;Portuguesa;28;28
+51360;Pepperoni;28;17
+45246;Margherita;28;14
+15834;Calabresa;28;23
+67446;Margherita;28;13
+13831;Vegetariana;29;23
+38571;Quatro Queijos;29;20
+67959;Pepperoni;29;16
+18562;Frango com Catupiry;29;23
+67486;Calabresa;29;23
+93180;Quatro Queijos;29;28
+19427;Pepperoni;29;23
+70946;Quatro Queijos;29;18
+43617;Pepperoni;29;23
+75873;Quatro Queijos;29;21
+84073;Frango com Catupiry;30;16
+52572;Quatro Queijos;30;17
+77135;Calabresa;30;11
+25201;Vegetariana;30;17
+93191;Pepperoni;30;30
+33280;Frango com Catupiry;30;13
+38000;Frango com Catupiry;30;24
+19397;Quatro Queijos;30;15
+36096;Portuguesa;30;11
+49012;Portuguesa;30;20
+22610;Quatro Queijos;31;23
+70267;Calabresa;31;11
+17318;Calabresa;31;25
+92057;Frango com Catupiry;31;11
+25454;Pepperoni;31;30
+80081;Quatro Queijos;31;24
+61617;Pepperoni;31;12
+79997;Margherita;31;28
+34860;Vegetariana;31;12
+64042;Margherita;31;24
+19290;Margherita;31;24
+14885;Quatro Queijos;31;27
+40191;Vegetariana;31;28
+99374;Margherita;31;21
+24722;Pepperoni;32;29
+16550;Pepperoni;32;29
+41584;Vegetariana;32;11
+91847;Pepperoni;32;10
+60599;Vegetariana;32;24
+90490;Portuguesa;32;17
+26569;Calabresa;32;16
+56470;Pepperoni;32;30
+23461;Vegetariana;32;24
+65180;Frango com Catupiry;32;14
+70784;Margherita;32;14
+97501;Margherita;33;14
+86336;Margherita;33;20
+76553;Pepperoni;33;26
+54607;Vegetariana;33;18
+77877;Pepperoni;33;18
+36016;Margherita;33;21
+45235;Margherita;33;19
+45262;Margherita;33;26
+81947;Margherita;33;12
+25972;Calabresa;33;14
+43449;Portuguesa;33;13
+21732;Calabresa;33;30
+75921;Calabresa;33;30
+77351;Calabresa;34;25
+21784;Quatro Queijos;34;17
+65533;Pepperoni;34;15
+14346;Portuguesa;34;25
+71394;Vegetariana;34;14
+49541;Calabresa;34;30
+28874;Margherita;34;18
+98314;Portuguesa;34;17
+12003;Vegetariana;34;21
+28460;Frango com Catupiry;35;17
+52874;Vegetariana;35;19
+90080;Vegetariana;35;16
+92476;Pepperoni;35;13
+98220;Frango com Catupiry;35;24
+70252;Vegetariana;35;24
+13158;Portuguesa;35;30
+62944;Quatro Queijos;36;30
+57645;Margherita;36;14
+93901;Quatro Queijos;36;30
+66814;Quatro Queijos;36;15
+77049;Calabresa;36;20
+13283;Vegetariana;36;21
+96780;Margherita;36;25
+52463;Pepperoni;36;23
+87824;Vegetariana;36;19
+21270;Margherita;36;17
+92532;Portuguesa;37;21
+73362;Frango com Catupiry;37;24
+13656;Frango com Catupiry;37;22
+33064;Portuguesa;37;11
+74209;Vegetariana;37;28
+65925;Frango com Catupiry;37;13
+47771;Margherita;37;14
+91167;Margherita;37;19
+49170;Calabresa;38;27
+20616;Margherita;38;26
+93098;Vegetariana;38;18
+76321;Calabresa;38;10
+84856;Vegetariana;38;13
+27727;Frango com Catupiry;38;22
+24465;Pepperoni;38;18
+69673;Frango com Catupiry;38;14
+29287;Pepperoni;38;19
+76939;Calabresa;39;19
+10936;Pepperoni;39;10
+75569;Margherita;39;28
+63713;Vegetariana;39;18
+45107;Margherita;39;26
+74578;Portuguesa;39;18
+38945;Portuguesa;39;22
+33423;Frango com Catupiry;40;12
+42592;Quatro Queijos;40;11
+77343;Margherita;40;19
+50181;Vegetariana;40;19
+15844;Calabresa;40;22
+83234;Quatro Queijos;40;30
+35874;Margherita;40;30
+43608;Frango com Catupiry;40;12
+73370;Pepperoni;40;22
+16892;Vegetariana;40;16
+83093;Pepperoni;41;20
+26543;Quatro Queijos;41;16
+65679;Vegetariana;41;17
+48084;Calabresa;41;27
+68452;Margherita;41;28
+44985;Vegetariana;41;22
+90887;Quatro Queijos;41;22
+11773;Calabresa;41;10
+26635;Vegetariana;41;25
+36541;Margherita;42;28
+73094;Pepperoni;42;13
+15047;Frango com Catupiry;42;10
+36754;Portuguesa;42;18
+79434;Quatro Queijos;42;28
+61911;Calabresa;42;25
+59711;Vegetariana;42;19
+54100;Pepperoni;42;28
+19576;Calabresa;42;16
+57030;Vegetariana;42;17
+62909;Frango com Catupiry;42;11
+99810;Margherita;42;25
+30925;Margherita;43;18
+28714;Pepperoni;43;12
+13965;Vegetariana;43;14
+21906;Portuguesa;43;17
+30125;Calabresa;43;13
+43170;Calabresa;43;26
+12104;Quatro Queijos;43;18
+65604;Margherita;43;23
+35738;Quatro Queijos;43;10
+28057;Frango com Catupiry;43;28
+39240;Frango com Catupiry;43;29
+96928;Margherita;43;10
+23249;Portuguesa;44;10
+43174;Calabresa;44;11
+55903;Vegetariana;44;23
+96987;Frango com Catupiry;44;14
+93626;Margherita;44;17
+96826;Frango com Catupiry;44;22
+45947;Quatro Queijos;44;22
+70815;Portuguesa;44;11
+75627;Frango com Catupiry;44;29
+79158;Pepperoni;44;24
+42733;Calabresa;44;30
+63101;Vegetariana;44;27
+60513;Pepperoni;44;24
+34784;Calabresa;45;14
+30625;Frango com Catupiry;45;20
+76090;Quatro Queijos;45;20
+80490;Quatro Queijos;45;16
+47041;Pepperoni;45;14
+79578;Calabresa;45;18
+77633;Pepperoni;45;21
+55393;Vegetariana;45;11
+19501;Vegetariana;45;11
+87656;Margherita;45;14
+74296;Vegetariana;45;10
+57510;Frango com Catupiry;45;26
+11971;Calabresa;45;16
+60429;Quatro Queijos;45;28
+64441;Quatro Queijos;46;11
+88689;Pepperoni;46;26
+27630;Calabresa;46;26
+31769;Frango com Catupiry;46;21
+49817;Pepperoni;46;25
+55081;Quatro Queijos;46;11
+61890;Margherita;46;21
+85810;Pepperoni;46;24
+32857;Calabresa;46;22
+94392;Portuguesa;46;11
+31693;Calabresa;46;20
+74297;Margherita;47;15
+92639;Frango com Catupiry;47;28
+69515;Margherita;47;27
+96820;Vegetariana;47;18
+95638;Calabresa;47;12
+48053;Frango com Catupiry;47;21
+47493;Frango com Catupiry;47;29
+38466;Quatro Queijos;47;15
+53446;Margherita;47;29
+28670;Quatro Queijos;47;14
+78095;Calabresa;48;13
+82298;Frango com Catupiry;48;19
+77722;Calabresa;48;28
+42243;Quatro Queijos;48;19
+85300;Calabresa;48;14
+49882;Margherita;48;26
+21699;Calabresa;48;29
+38312;Vegetariana;48;16
+81394;Vegetariana;48;23
+99366;Frango com Catupiry;48;19
+58698;Pepperoni;49;22
+79697;Calabresa;49;29
+11837;Quatro Queijos;49;17
+64467;Quatro Queijos;49;26
+45537;Portuguesa;49;26
+90564;Quatro Queijos;49;27
+10215;Vegetariana;49;20
+52979;Pepperoni;49;24
+56184;Portuguesa;49;19
+21324;Frango com Catupiry;49;13
+48389;Frango com Catupiry;49;23
+30988;Frango com Catupiry;49;30
+85583;Frango com Catupiry;49;11
+80166;Margherita;50;13
+41460;Vegetariana;50;26
+89961;Pepperoni;50;19
+44657;Frango com Catupiry;50;29
+63307;Quatro Queijos;50;21
+72389;Quatro Queijos;50;21
+43694;Calabresa;50;16
+26677;Frango com Catupiry;50;20
+91544;Portuguesa;50;26
+52185;Margherita;50;27
+16106;Margherita;50;23
+36528;Margherita;50;24
+94023;Quatro Queijos;51;15
+12673;Frango com Catupiry;51;18
+77635;Frango com Catupiry;51;17
+44734;Vegetariana;51;28
+33611;Pepperoni;51;22
+62683;Calabresa;51;15
+95414;Vegetariana;51;25
+13041;Frango com Catupiry;51;26
+41030;Frango com Catupiry;51;22
+78881;Frango com Catupiry;51;28
+97189;Calabresa;51;16
+44802;Quatro Queijos;52;10
+86553;Vegetariana;52;13
+29957;Calabresa;52;15
+63825;Pepperoni;52;14
+82923;Frango com Catupiry;52;14
+52306;Calabresa;52;14
+46964;Pepperoni;52;16
+38249;Pepperoni;52;16
+23558;Quatro Queijos;52;29
+11875;Portuguesa;52;23
+19795;Pepperoni;52;13
+76964;Quatro Queijos;52;28
+86837;Pepperoni;53;24
+30656;Pepperoni;53;27
+97087;Vegetariana;53;26
+73732;Calabresa;53;22
+69852;Quatro Queijos;53;19
+54084;Pepperoni;53;29
+34723;Margherita;53;17
+14655;Quatro Queijos;53;29
+77024;Pepperoni;53;17
+13608;Frango com Catupiry;53;26
+42237;Calabresa;53;30
+50250;Portuguesa;54;22
+11178;Quatro Queijos;54;22
+52692;Margherita;54;21
+73845;Quatro Queijos;54;10
+34810;Vegetariana;54;15
+33652;Pepperoni;54;16
+85897;Pepperoni;54;17
+55597;Portuguesa;54;26
+30194;Margherita;54;14
+37444;Pepperoni;54;20
+60804;Pepperoni;55;27
+62090;Quatro Queijos;55;20
+18077;Frango com Catupiry;55;17
+65989;Calabresa;55;10
+25608;Portuguesa;55;30
+25482;Pepperoni;55;23
+94040;Margherita;55;25
+38304;Pepperoni;55;11
+28165;Quatro Queijos;55;26
+50344;Portuguesa;55;11
+18536;Pepperoni;56;21
+50427;Vegetariana;56;14
+84310;Margherita;56;14
+51529;Vegetariana;56;16
+81815;Frango com Catupiry;56;19
+75879;Quatro Queijos;56;10
+76643;Vegetariana;56;18
+93409;Calabresa;57;19
+98699;Margherita;57;10
+73594;Portuguesa;57;20
+64382;Pepperoni;57;20
+61824;Frango com Catupiry;57;13
+44724;Quatro Queijos;57;11
+43019;Pepperoni;57;26
+54910;Vegetariana;57;23
+85555;Frango com Catupiry;57;26
+49923;Vegetariana;57;16
+82690;Portuguesa;58;28
+13001;Pepperoni;58;18
+74874;Portuguesa;58;30
+93180;Portuguesa;58;20
+21365;Frango com Catupiry;58;18
+32197;Pepperoni;58;11
+23562;Vegetariana;58;30
+20465;Frango com Catupiry;58;24
+47792;Frango com Catupiry;59;13
+68860;Margherita;59;17
+22957;Vegetariana;59;24
+95638;Margherita;59;25
+74940;Vegetariana;59;12
+92048;Frango com Catupiry;59;15
+80805;Calabresa;60;30
+22655;Frango com Catupiry;60;15
+56986;Calabresa;60;27
+33284;Frango com Catupiry;60;30
+46615;Vegetariana;60;12
+72593;Portuguesa;60;24
+41114;Calabresa;60;10
+92964;Quatro Queijos;60;22
+87335;Quatro Queijos;60;19
+26899;Pepperoni;60;27
+25493;Portuguesa;60;18
+49910;Margherita;60;29
+36606;Margherita;60;21
+96756;Calabresa;60;12
+38685;Frango com Catupiry;60;27
+79502;Vegetariana;60;14
+18286;Vegetariana;61;14
+51443;Portuguesa;61;12
+99419;Vegetariana;61;29
+74614;Vegetariana;61;29
+25605;Vegetariana;61;23
+18216;Vegetariana;61;14
+61390;Frango com Catupiry;61;28
+78549;Pepperoni;61;22
+93655;Frango com Catupiry;61;11
+47996;Pepperoni;61;28
+78161;Margherita;61;26
+70120;Quatro Queijos;61;21
+65436;Frango com Catupiry;61;13
+69678;Portuguesa;61;25
+92204;Vegetariana;61;14
+22737;Calabresa;61;25
+83982;Margherita;61;30
+89795;Margherita;61;30
+10675;Vegetariana;62;22
+29697;Calabresa;62;11
+12845;Frango com Catupiry;62;18
+27829;Quatro Queijos;62;28
+54002;Quatro Queijos;62;30
+44005;Quatro Queijos;62;13
+77578;Frango com Catupiry;62;25
+75092;Portuguesa;62;16
+91115;Margherita;62;19
+63003;Calabresa;63;25
+11769;Vegetariana;63;12
+95081;Margherita;63;11
+80597;Margherita;63;10
+91610;Frango com Catupiry;63;10
+43371;Frango com Catupiry;63;30
+53821;Portuguesa;63;24
+79409;Frango com Catupiry;63;13
+49701;Margherita;63;19
+70482;Vegetariana;63;12
+25221;Portuguesa;63;14
+37601;Vegetariana;63;17
+45029;Pepperoni;64;22
+37806;Calabresa;64;15
+13327;Frango com Catupiry;64;17
+23481;Calabresa;64;17
+84243;Margherita;64;28
+36607;Quatro Queijos;64;30
+74023;Margherita;64;14
+16831;Frango com Catupiry;64;20
+87697;Frango com Catupiry;65;25
+75951;Portuguesa;65;28
+15915;Quatro Queijos;65;18
+89006;Portuguesa;65;11
+11874;Vegetariana;65;14
+40785;Portuguesa;65;16
+48640;Frango com Catupiry;65;15
+81109;Quatro Queijos;65;11
+32796;Margherita;65;26
+80646;Pepperoni;65;26
+56865;Pepperoni;66;11
+90965;Calabresa;66;29
+88102;Quatro Queijos;66;30
+80742;Margherita;66;24
+81441;Margherita;66;12
+12982;Frango com Catupiry;66;19
+45574;Quatro Queijos;66;14
+78982;Portuguesa;66;10
+46443;Vegetariana;67;22
+89162;Calabresa;67;24
+40788;Pepperoni;67;12
+17848;Vegetariana;67;20
+77321;Vegetariana;67;29
+64508;Frango com Catupiry;67;29
+28320;Frango com Catupiry;67;12
+81137;Calabresa;67;14
+44230;Frango com Catupiry;67;13
+60540;Vegetariana;67;16
+53681;Portuguesa;67;16
+41568;Calabresa;67;19
+16716;Portuguesa;68;16
+38592;Quatro Queijos;68;17
+22517;Portuguesa;68;18
+21108;Vegetariana;68;26
+78764;Margherita;68;27
+94464;Pepperoni;68;26
+48324;Margherita;68;29
+65398;Vegetariana;68;26
+93726;Portuguesa;68;19
+26893;Vegetariana;68;20
+69145;Pepperoni;68;16
+53765;Quatro Queijos;69;14
+46538;Calabresa;69;21
+66249;Calabresa;69;25
+15923;Vegetariana;69;14
+43581;Quatro Queijos;69;30
+73383;Calabresa;70;29
+21869;Portuguesa;70;22
+61889;Pepperoni;70;10
+98609;Portuguesa;70;24
+82287;Quatro Queijos;70;23
+93661;Margherita;70;17
+87749;Portuguesa;70;11
+44514;Margherita;70;29
+35389;Frango com Catupiry;70;28
+87252;Pepperoni;70;22
+25041;Margherita;70;14
+85679;Pepperoni;71;12
+52543;Portuguesa;71;12
+85615;Frango com Catupiry;71;30
+52190;Quatro Queijos;71;24
+76016;Portuguesa;71;25
+81931;Portuguesa;71;28
+72886;Margherita;71;25
+37104;Portuguesa;72;18
+93870;Pepperoni;72;18
+95970;Vegetariana;72;27
+16880;Portuguesa;72;21
+83023;Vegetariana;72;22
+91796;Pepperoni;72;15
+30690;Vegetariana;72;26
+92371;Portuguesa;72;19
+61005;Vegetariana;73;18
+73108;Margherita;73;11
+65453;Calabresa;73;25
+94479;Quatro Queijos;73;28
+84427;Frango com Catupiry;73;23
+41662;Vegetariana;73;19
+98803;Margherita;73;24
+24381;Calabresa;73;16
+20128;Quatro Queijos;73;12
+17120;Calabresa;73;24
+71285;Calabresa;74;19
+97958;Vegetariana;74;18
+75632;Pepperoni;74;22
+35303;Portuguesa;74;11
+39268;Frango com Catupiry;74;16
+51626;Vegetariana;74;11
+40846;Frango com Catupiry;75;25
+14612;Vegetariana;75;18
+73391;Quatro Queijos;75;27
+29842;Vegetariana;75;11
+71191;Frango com Catupiry;75;27
+45325;Quatro Queijos;75;30
+43211;Quatro Queijos;75;28
+47049;Frango com Catupiry;75;23
+56261;Portuguesa;75;13
+82613;Pepperoni;75;13
+47190;Quatro Queijos;75;11
+88397;Margherita;75;20
+93711;Calabresa;75;29
+57944;Vegetariana;76;26
+83573;Frango com Catupiry;76;15
+67503;Vegetariana;76;27
+32755;Portuguesa;76;28
+16661;Margherita;76;26
+55705;Portuguesa;76;26
+28242;Calabresa;76;26
+99235;Frango com Catupiry;76;26
+27456;Frango com Catupiry;76;18
+48603;Calabresa;76;17
+37363;Frango com Catupiry;76;19
+64517;Quatro Queijos;76;11
+75283;Quatro Queijos;76;29
+45414;Calabresa;77;30
+86717;Frango com Catupiry;77;14
+54011;Frango com Catupiry;77;29
+93602;Calabresa;77;20
+86323;Pepperoni;77;26
+55458;Pepperoni;78;27
+41704;Vegetariana;78;23
+70842;Margherita;78;29
+14609;Calabresa;78;25
+54104;Calabresa;78;28
+10906;Quatro Queijos;78;14
+38842;Margherita;78;25
+24805;Margherita;78;20
+38032;Portuguesa;78;12
+58913;Frango com Catupiry;78;10
+31137;Pepperoni;78;15
+21970;Frango com Catupiry;78;26
+99581;Frango com Catupiry;78;10
+89983;Calabresa;79;29
+53268;Pepperoni;79;22
+57388;Margherita;79;18
+53309;Portuguesa;79;18
+70669;Vegetariana;79;19
+84420;Vegetariana;79;10
+57510;Margherita;79;18
+60016;Portuguesa;79;23
+94630;Quatro Queijos;79;10
+94953;Calabresa;79;15
+96966;Vegetariana;79;18
+69390;Portuguesa;79;11
+35190;Vegetariana;80;26
+93483;Vegetariana;80;21
+75819;Pepperoni;80;28
+97774;Pepperoni;80;22
+21844;Frango com Catupiry;80;18
+34476;Vegetariana;80;23
+71693;Margherita;80;14
+90476;Calabresa;80;26
+91873;Margherita;81;13
+29609;Portuguesa;81;19
+79856;Vegetariana;81;23
+14295;Calabresa;81;29
+53668;Calabresa;81;13
+55856;Frango com Catupiry;81;24
+40018;Margherita;81;12
+27619;Portuguesa;81;10
+47287;Vegetariana;81;10
+66496;Portuguesa;81;26
+53049;Calabresa;81;26
+95067;Pepperoni;81;10
+63915;Frango com Catupiry;81;26
+36168;Margherita;82;18
+96874;Vegetariana;82;30
+61390;Portuguesa;82;16
+77608;Calabresa;82;28
+15908;Frango com Catupiry;82;17
+62602;Quatro Queijos;82;30
+21346;Calabresa;82;11
+21484;Quatro Queijos;82;12
+79983;Portuguesa;83;28
+79526;Portuguesa;83;18
+91709;Vegetariana;83;10
+38297;Pepperoni;83;25
+95786;Margherita;83;21
+90172;Calabresa;83;10
+38117;Quatro Queijos;83;27
+95648;Portuguesa;83;20
+15261;Quatro Queijos;83;30
+58046;Frango com Catupiry;83;30
+71429;Margherita;84;19
+57469;Calabresa;84;27
+90938;Margherita;84;15
+81606;Margherita;84;15
+29597;Portuguesa;84;29
+93833;Portuguesa;84;28
+24161;Vegetariana;84;28
+30155;Quatro Queijos;84;25
+58643;Pepperoni;84;30
+61780;Frango com Catupiry;84;29
+17988;Portuguesa;84;14
+21657;Quatro Queijos;84;14
+13113;Margherita;85;12
+64716;Calabresa;85;21
+98707;Frango com Catupiry;85;18
+58108;Calabresa;85;15
+45482;Calabresa;85;12
+51644;Quatro Queijos;85;11
+29285;Pepperoni;85;24
+42386;Frango com Catupiry;85;10
+31223;Margherita;85;24
+32252;Margherita;85;22
+43277;Frango com Catupiry;86;30
+89032;Calabresa;86;19
+19980;Vegetariana;86;13
+58949;Pepperoni;86;17
+25501;Quatro Queijos;87;17
+98938;Frango com Catupiry;87;11
+83624;Frango com Catupiry;87;30
+29123;Calabresa;87;21
+99367;Frango com Catupiry;87;16
+30564;Vegetariana;87;25
+43219;Calabresa;87;17
+88469;Vegetariana;87;30
+21875;Pepperoni;87;30
+44626;Portuguesa;87;14
+86122;Frango com Catupiry;87;11
+65544;Frango com Catupiry;87;28
+55420;Portuguesa;88;21
+93113;Vegetariana;88;17
+80308;Calabresa;88;16
+86023;Portuguesa;88;18
+67419;Quatro Queijos;88;23
+38411;Vegetariana;88;14
+45404;Quatro Queijos;88;13
+18672;Quatro Queijos;88;29
+58532;Vegetariana;88;29
+92820;Portuguesa;88;17
+42998;Vegetariana;88;15
+75559;Margherita;88;26
+29484;Margherita;88;26
+45605;Margherita;89;11
+55488;Calabresa;89;25
+57580;Frango com Catupiry;89;28
+85957;Quatro Queijos;89;18
+15100;Margherita;89;20
+61296;Vegetariana;89;15
+81272;Quatro Queijos;89;13
+85925;Frango com Catupiry;89;22
+99254;Portuguesa;90;13
+60199;Margherita;90;12
+79282;Vegetariana;90;28
+84698;Portuguesa;90;18
+48059;Calabresa;90;15
+74091;Vegetariana;90;27
+56956;Frango com Catupiry;90;20
+20334;Margherita;90;25
+41499;Vegetariana;90;22
+49666;Quatro Queijos;90;15
+39951;Margherita;91;24
+43128;Pepperoni;91;26
+34245;Quatro Queijos;91;18
+68873;Quatro Queijos;91;16
+16241;Calabresa;91;16
+76914;Margherita;91;22
+85174;Margherita;91;15
+87311;Calabresa;91;25
+42701;Frango com Catupiry;91;23
+98729;Calabresa;92;29
+18692;Frango com Catupiry;92;29
+95157;Calabresa;92;22
+68450;Portuguesa;92;18
+72232;Frango com Catupiry;92;18
+55717;Frango com Catupiry;92;14
+38537;Frango com Catupiry;92;24
+16751;Margherita;93;12
+97563;Pepperoni;93;19
+17914;Portuguesa;93;13
+54403;Margherita;93;14
+98452;Calabresa;93;20
+86214;Pepperoni;93;16
+36568;Margherita;93;16
+34659;Calabresa;93;30
+97294;Calabresa;93;27
+36928;Vegetariana;93;17
+77681;Vegetariana;94;30
+19157;Frango com Catupiry;94;23
+13956;Pepperoni;94;17
+20646;Portuguesa;95;26
+65588;Pepperoni;95;28
+30911;Portuguesa;95;28
+11169;Portuguesa;95;13
+50106;Margherita;95;16
+23205;Portuguesa;95;26
+84453;Quatro Queijos;95;15
+73123;Margherita;95;27
+88874;Vegetariana;95;24
+89703;Calabresa;95;28
+18892;Margherita;95;17
+80648;Vegetariana;96;15
+15773;Calabresa;96;14
+85649;Calabresa;96;28
+12379;Calabresa;96;28
+14746;Portuguesa;96;17
+86920;Calabresa;96;25
+40192;Portuguesa;96;15
+19945;Margherita;97;28
+71320;Quatro Queijos;97;17
+56611;Portuguesa;97;25
+66721;Portuguesa;97;10
+92174;Pepperoni;97;29
+11656;Vegetariana;97;20
+60124;Margherita;97;23
+56809;Calabresa;97;17
+38695;Portuguesa;98;11
+47099;Frango com Catupiry;98;11
+43048;Margherita;98;13
+82955;Portuguesa;98;27
+40162;Pepperoni;98;21
+44971;Vegetariana;98;18
+84598;Calabresa;98;30
+56235;Portuguesa;98;24
+63126;Calabresa;98;27
+66826;Frango com Catupiry;98;30
+21601;Calabresa;98;24
+22717;Frango com Catupiry;98;24
+95154;Calabresa;98;20
+36303;Frango com Catupiry;99;19
+76750;Calabresa;99;15
+80426;Vegetariana;99;11
+56135;Quatro Queijos;99;15
+28951;Vegetariana;99;13
+47960;Quatro Queijos;99;26
+67207;Calabresa;99;25
+64134;Pepperoni;99;12
+41024;Calabresa;99;16
+84812;Pepperoni;100;20
+87343;Vegetariana;100;24
+48586;Pepperoni;100;28
+11579;Vegetariana;100;17
+15505;Portuguesa;100;27
+36601;Frango com Catupiry;100;17
+44097;Vegetariana;100;19
+40353;Calabresa;100;10
+73025;Vegetariana;100;13
+44917;Quatro Queijos;100;14
+27023;Portuguesa;100;27
