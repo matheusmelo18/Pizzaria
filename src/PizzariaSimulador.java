@@ -18,10 +18,11 @@ public class PizzariaSimulador {
     public Pedido[] lerArquivoCSV(String caminho) throws IOException{
         BufferedReader br = new BufferedReader(new FileReader(caminho));
         String linha;
-        Pedido[] pedidos = new Pedido[100];
+        Pedido[] pedidos = new Pedido[1000];
         int index = 0;
+        br.readLine();
         while((linha = br.readLine()) != null){
-            String[] dados = linha.split(",");
+            String[] dados = linha.split(";");
             int codigo = Integer.parseInt(dados[0]);
             String sabor = dados[1];
             int instante = Integer.parseInt(dados[2]);
