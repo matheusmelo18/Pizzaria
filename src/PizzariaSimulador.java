@@ -1,8 +1,9 @@
+// PizzariaSimulador.java
+
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.FileReader;
 import java.io.FileWriter;
-import java.io.IOError;
 import java.io.IOException;
 import java.util.LinkedList;
 import java.util.List;
@@ -14,14 +15,15 @@ public class PizzariaSimulador {
     private int tempoTotal = 0;
     private int totalPedidos = 0;
     private Pedido pedidoMaisDemorado = null;
+    private List<Pedido> pedidosProcessados = new LinkedList<>();
 
-    public Pedido[] lerArquivoCSV(String caminho) throws IOException{
+    public Pedido[] lerArquivoCSV(String caminho) throws IOException {
         BufferedReader br = new BufferedReader(new FileReader(caminho));
         String linha;
         Pedido[] pedidos = new Pedido[1000];
         int index = 0;
         br.readLine();
-        while((linha = br.readLine()) != null){
+        while ((linha = br.readLine()) != null) {
             String[] dados = linha.split(";");
             int codigo = Integer.parseInt(dados[0]);
             String sabor = dados[1];
@@ -33,80 +35,118 @@ public class PizzariaSimulador {
         return pedidos;
     }
 
-    public void processarSimulacao(Pedido[] pedidos){
+    public void processarSimulacao(Pedido[] pedidos) {
         int tempo = 0;
         Pedido pedidoAtual = null;
         int tempoPreparoRestante = 0;
         int indexPedidos = 0;
 
-
-        while(indexPedidos < pedidos.length || !filaDePedidos.isEmpty() || pedidoAtual != null){
-            while(indexPedidos < pedidos.length && pedidos[indexPedidos] != null && pedidos[indexPedidos].instante == tempo){
+        while (indexPedidos < pedidos.length || !filaDePedidos.isEmpty() || pedidoAtual != null) {
+            while (indexPedidos < pedidos.length && pedidos[indexPedidos] != null
+                    && pedidos[indexPedidos].instante == tempo) {
                 filaDePedidos.add(pedidos[indexPedidos++]);
             }
-            if(pedidoAtual == null && !filaDePedidos.isEmpty()){
+            if (pedidoAtual == null && !filaDePedidos.isEmpty()) {
                 pedidoAtual = filaDePedidos.poll();
                 tempoPreparoRestante = pedidoAtual.tempoPreparo;
             }
 
-            if(pedidoAtual !=null){
+            if (pedidoAtual != null) {
                 tempoPreparoRestante--;
-                if(tempoPreparoRestante == 0){
+                if (tempoPreparoRestante == 0) {
                     inserirNaArvore(pedidoAtual);
+                    pedidosProcessados.add(pedidoAtual); // Adiciona o pedido processado à lista
                     totalPedidos++;
-                    if(pedidoMaisDemorado == null || pedidoAtual.tempoPreparo > pedidoMaisDemorado.tempoPreparo){
+                    if (pedidoMaisDemorado == null || pedidoAtual.tempoPreparo > pedidoMaisDemorado.tempoPreparo) {
                         pedidoMaisDemorado = pedidoAtual;
                     }
                     pedidoAtual = null;
                 }
-            }  
+            }
             tempo++;
         }
         tempoTotal = tempo;
     }
 
-    private void inserirNaArvore(Pedido pedido){
-        raizABP = inserirNaArvoreRec(raizABP,pedido);
+    private void inserirNaArvore(Pedido pedido) {
+        raizABP = inserirNaArvoreRec(raizABP, pedido);
     }
 
-    private Nodo inserirNaArvoreRec(Nodo raiz, Pedido pedido){
-        if(raiz == null){
+    private Nodo inserirNaArvoreRec(Nodo raiz, Pedido pedido) {
+        if (raiz == null) {
             return new Nodo(pedido);
-        }   
-        if(pedido.codigo < raiz.pedido.codigo){
+        }
+        if (pedido.codigo < raiz.pedido.codigo) {
             raiz.esquerda = inserirNaArvoreRec(raiz.esquerda, pedido);
-        }else if(pedido.codigo > raiz.pedido.codigo){
+        } else if (pedido.codigo > raiz.pedido.codigo) {
             raiz.direita = inserirNaArvoreRec(raiz.direita, pedido);
         }
         return raiz;
     }
+
     private void gerarCSVsituacaoFila() throws IOException {
         BufferedWriter bw = new BufferedWriter(new FileWriter("situacao_fila.csv"));
         bw.write("Instante,Pedidos Em Espera,Pedido Em Produção,Pedidos Prontos\n");
 
+        int tempo = 0;
+        int indexPedidos = 0;
+        Pedido pedidoAtual = null;
+        int tempoPreparoRestante = 0;
+        int pedidosProntos = 0;
+
+        Queue<Pedido> filaDePedidosLocal = new LinkedList<>(filaDePedidos); 
+        List<Pedido> pedidosProcessadosLocal = new LinkedList<>(pedidosProcessados);
+                                            
+
+        while (indexPedidos < pedidosProcessadosLocal.size() || !filaDePedidosLocal.isEmpty() || pedidoAtual != null) {
+            bw.write(tempo + "," + filaDePedidosLocal.size() + "," + (pedidoAtual != null ? 1 : 0) + ","
+                    + pedidosProntos + "\n");
+
+            while (indexPedidos < pedidosProcessadosLocal.size()
+                    && pedidosProcessadosLocal.get(indexPedidos).instante == tempo) {
+                filaDePedidosLocal.add(pedidosProcessadosLocal.get(indexPedidos++));
+            }
+
+            if (pedidoAtual == null && !filaDePedidosLocal.isEmpty()) {
+                pedidoAtual = filaDePedidosLocal.poll();
+                tempoPreparoRestante = pedidoAtual.tempoPreparo;
+            }
+
+            if (pedidoAtual != null) {
+                tempoPreparoRestante--;
+                if (tempoPreparoRestante == 0) {
+                    pedidosProntos++;
+                    pedidoAtual = null;
+                }
+            }
+
+            tempo++;
+        }
+
         bw.close();
     }
-    public void gerarResultados() throws IOException{
-        System.out.println("total de pedidos processados:" + totalPedidos);
-        System.out.println("total de tempo executado" + tempoTotal);
-        System.out.println("pedido mais demorado" + (pedidoMaisDemorado != null ? pedidoMaisDemorado.codigo : "nenhum"));
 
+    public void gerarResultados() throws IOException {
+        System.out.println("total de pedidos processados:" + " " + totalPedidos);
+        System.out.println("total de tempo executado" + " " + tempoTotal);
+        System.out.println(
+                "pedido mais demorado" + " " + (pedidoMaisDemorado != null ? pedidoMaisDemorado.codigo : "nenhum"));
 
         gerarCSVsituacaoFila();
         gerarCSVArvore();
     }
-    private void gerarCSVArvore() throws IOException{
-        BufferedWriter bw = new BufferedWriter(new  FileWriter("Arvore.csv"));
+
+    private void gerarCSVArvore() throws IOException {
+        BufferedWriter bw = new BufferedWriter(new FileWriter("Arvore.csv"));
         inOrder(raizABP, bw);
         bw.close();
     }
 
-    private void inOrder(Nodo nodo, BufferedWriter bw) throws IOException{
-        if(nodo != null){
+    private void inOrder(Nodo nodo, BufferedWriter bw) throws IOException {
+        if (nodo != null) {
             inOrder(nodo.esquerda, bw);
             bw.write(nodo.pedido.codigo + ",");
             inOrder(nodo.direita, bw);
         }
     }
-
 }
